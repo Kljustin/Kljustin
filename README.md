@@ -6,7 +6,16 @@
 💻 Backend Developer 
 📍 Ho Chi Minh City, Vietnam
 
-## 🛠️ Main Tech Stack
+## 1.🎓 Education
+
+**05/07/2024**: Certificate in applying ChatGPT in scientific research, learning and career orientation
+**14/11/2025**: Ranked second upon graduation in Information Technology
+**2021 - 2025**: Merit Scholarship
+**12/12/2025**: English: TOEIC 880
+
+---
+
+## 2.🛠️ Main Tech Stack
 
 ### Backend
 - C#
@@ -33,7 +42,7 @@
 
 ---
 
-## 🛠️ Other Tech Stack
+## 3.🛠️ Other Tech Stack
 
 ### Backend
  - PHP
@@ -46,7 +55,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## 4.🛠️ Skills
+
+ - **1. Communication skill:** Able to communicate well with people around
+ - **2. Presentation skill:** Confident in presenting and delivering presentations to audiences
+ - **3. Teamwork skill:** I can work in groups with everyone, maximize my abilities, and support team members wholeheartedly
+ - **4. Programming skill:** Proficient in C++, C#, Java, PHP; experienced in front-end development with HTML, CSS, JavaScript. Self-studied and applied React.js framework for SPA design
+ - **5. Problem - solving skill:** Strong in solving complex problems logically and effectively
+ - **6. AI-Assisted Development:** Proficient in using AI tools for coding, debugging, and problem-solving.
+
+---
+
+## 5.🚀 Featured Projects
 
 ### 📚 Library Management System
  - System analysis and design for library management
@@ -62,6 +82,6 @@
 
 ---
 
-## 📫 Contact
+## 6.📫 Contact
 
 - Email: long.lykim.03@gmail.com
