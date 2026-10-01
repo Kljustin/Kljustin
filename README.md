@@ -8,10 +8,10 @@
 
 ## 1.🎓 Education
 
-**05/07/2024**: Certificate in applying ChatGPT in scientific research, learning and career orientation
-**14/11/2025**: Ranked second upon graduation in Information Technology
-**2021 - 2025**: Merit Scholarship
-**12/12/2025**: English: TOEIC 880
+ - **05/07/2024**: Certificate in applying ChatGPT in scientific research, learning and career orientation
+ - **14/11/2025**: Ranked second upon graduation in Information Technology
+ - **2021 - 2025**: Merit Scholarship
+ - **12/12/2025**: English: TOEIC 880
 
 ---
 
