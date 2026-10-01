@@ -1,9 +1,9 @@
 # Hi, I'm Long (Justin) 👋
 
 🎓 Information Technology Student  
-💻 .NET / React Developer 
-💻 Fullstack Developer 
-💻 Backend Developer 
+💻 .NET / React Developer  
+💻 Fullstack Developer  
+💻 Backend Developer  
 📍 Ho Chi Minh City, Vietnam
 
 ## 1.🎓 Education
