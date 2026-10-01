@@ -1,7 +1,9 @@
 # Hi, I'm Justin 👋
 
 🎓 Information Technology Student  
-💻 .NET / React Developer  
+💻 .NET / React Developer 
+💻 Fullstack Developer 
+💻 Backend Developer 
 📍 Ho Chi Minh City, Vietnam
 
 ## 🛠️ Main Tech Stack
